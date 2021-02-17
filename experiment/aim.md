@@ -1,1 +1,1 @@
-## To construct a square wave with the help of fundamental frequency and its harmonic component
+## To write a Javascript program to define a user defined function for sorting the values in an array.
