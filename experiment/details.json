@@ -12,34 +12,34 @@
    "developer": [
        {       
       "Developer": "Dr. Sakshi Rathi",         
-      "Institute": "KIET Group Of Institutions",         
+      "Institute": "KIET Group of Institutions, Delhi-NCR, Ghaziabad",         
       "InstituteAcronym": "KIET"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
+			"Contributer": "Nandini Jairath",             
       "Institute": "",               
-			"InstituteAcronym": ""         
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",              
+			"Contributer": "Shreya Asthana",              
       "Institute": "",               
-			"InstituteAcronym": ""         
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",             
+			"Contributer": "Shuvam Gupta",             
       "Institute": "",               
-			"InstituteAcronym": ""         
+			"InstituteAcronym": "KIET"         
        },
 
        {       
-			"Contributer": "",              
+			"Contributer": "Parth Dogra",              
       "Institute": "",               
-			"InstituteAcronym": ""         
+			"InstituteAcronym": "KIET"         
        }
    ]
 
