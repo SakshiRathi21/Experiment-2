@@ -27,7 +27,7 @@ Web Designing Lab
 
 AKTU, Lucknow
 
-<b>Name of Developer | <b> Dr. Sakshi Rathi - - - - - -
+<b>Name of Developer | <b> Dr. Sakshi Rathi
 :--|:--|
 <b> Institute | <b> KIET Group of Institution, Delhi NCR, Ghaziabad
 <b> Email id|     <b> 
