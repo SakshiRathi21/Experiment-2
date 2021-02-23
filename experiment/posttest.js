@@ -90,57 +90,37 @@
 
   const myQuestions = [
     {
-        question: " 1.	What is a line spectrum?",
+        question: " Q1) Correct way to define a user defined function in JavaScript",
         answers: {
-            a: '  Plot showing magnitudes of waveforms are called line spectrum',
-            b: ' Plot showing each of harmonic amplitudes in the wave is called line spectrum',
-            c: ' Plot showing each of harmonic amplitudes in the wave is called line spectrum',
-            d: ' Plot showing each of harmonic amplitudes called line spectrum'
+            a: ' function sortFunction{}',
+            b: ' function sortFunction(){function body}',
+            c: ' function sortFunction(function body)',
+            d: ' function sortFunction'
 
         },
         correctAnswer: 'b'
     },
     {
-        question: "2. Fourier series is not valid for Discrete time sequence/signals ",
+        question: "Q2) What type of elements can be sorted using javascript? ",
         answers: {
-            a: ' True',
-            b: ' False'
+            a: ' Integer',
+            b: ' String',
+            c: ' Decimal',
+            d: ' All of the above'
+
+        },
+        correctAnswer: 'd'
+    },
+    {
+        question: "Q3) Predefined function in JavaScript to sort an array:",
+        answers: {
+            a: ' arrange()',
+            b: ' sort()',
+            c: ' swap()',
+            d: ' None of these'
 
         },
         correctAnswer: 'b'
-    },
-    {
-        question: "3. Fourier series uses which domain representation of signals?",
-        answers: {
-            a: ' Time domain representation',
-            b: ' Frequency domain representation',
-            c: ' Both combined',
-            d: ' Neither depends on the situation'
-
-        },
-        correctAnswer: 'b'
-    },
-    {
-        question: "4.	Continuous Time Fourier Series is valid for  ",
-        answers: {
-            a: ' Periodic signals',
-            b: ' Non periodic signals',
-            c: ' Even signals only',
-            d: ' None of the above'
-
-        },
-        correctAnswer: 'a'
-    },
-    {
-        question: "5. Select the correct relation between the amplitude of the nth harmonic element for Fourier series (An is representing amplitude of the nth harmonic)",
-        answers: {
-            a: ' A7 > A6 > A5 > A4',
-            b: ' A7 > A6 < A5 < A4',
-            c: ' A7 < A6 < A5 < A4',
-            d: ' None of the above'
-
-        },
-        correctAnswer: 'c'
     }
 
   ];
