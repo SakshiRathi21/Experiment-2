@@ -90,57 +90,38 @@
 
   const myQuestions = [
     {
-        question: "1.	What are Fourier coefficients?",
+        question: "Q1) Which of the following shows 3,9,1,5,2 in correct increasing sorted order:",
         answers: {
-            a: ' The terms that are present in a Fourier series',
-            b: ' The terms that are obtained through Fourier series',
-            c: ' The terms which consist of the Fourier series along with their sine or cosine values',
-            d: ' The terms which are of resemblance to Fourier transform in a Fourier series are called Fourier series coefficients'
-
-        },
-        correctAnswer: 'c'
-    },
-    {
-        question: "2.	Which are the Fourier coefficients in the following?",
-        answers: {
-            a: ' a<sub>0</sub>, a<sub>n</sub> and b<sub>n</sub>',
-            b: ' a<sub>n</sub>',
-            c: ' b<sub>n</sub>',
-            d: ' a<sub>n</sub> and b<sub>n</sub>'
+            a: ' 1,2,3,5,9',
+            b: ' 2,3,5,9,1',
+            c: ' 9,2,3,5,1',
+            d: ' 3,2,5,1,9'
 
         },
         correctAnswer: 'a'
     },
     {
-        question: "3.	 Do exponential Fourier series also have Fourier coefficients to be evaluated.",
+        question: "Q2) Sorting means:",
         answers: {
-            a: ' True',
-            b: ' False'
+            a: ' Arranging elements in an order whether increasing or decreasing',
+            b: ' swapping elements',
+            c: ' removing elements from given list',
+            d: ' inserting new elements in the list'
 
         },
         correctAnswer: 'a'
     },
     {
-        question: "4. The Fourier series coefficients of the signal are carried from -T/2 to T/2.",
+        question: "Q3) Statements in JavaScript are terminated by which of the following symbol?",
         answers: {
-            a: ' True',
-            b: ' False'
+            a: ' .',
+            b: ' ;',
+            c: ' :',
+            d: ' _'
 
         },
-        correctAnswer: 'a'
-    },
-    {
-        question: "5.	What is the polar form of the Fourier series? Select most suitable answer",
-        answers: {
-            a: ' x(t) = c<sub>0</sub> + &Sigma;c<sub>n</sub> cos(nwt + &Phi;<sub>n</sub>)',
-            b: ' x(t) = c<sub>0</sub> + &Sigma;c<sub>n</sub> cos(&Phi;<sub>n</sub>)',
-            c: ' x(t) = &Sigma;c<sub>n</sub> cos(nwt + &Phi;<sub>n</sub>)',
-            d: ' x(t) = c<sub>0</sub>+ &Sigma;cos(nwt + &Phi;<sub>n</sub>)'
-
-        },
-        correctAnswer: 'a'
+        correctAnswer: 'b'
     }
-
 
   ];
 
