@@ -47,7 +47,7 @@ SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Nandini Jairath | Student | Computer Science and Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | nandinijairath@gmail.com
 2 | Shreya Asthana | Student | Information and Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shreyaasthana983@gmail.com
-3 | Shuvam Gupta | Student | Dept Name | KIET Group of Institution, Delhi-NCR, Ghaziabad |abc@example.com
+3 | Shuvam Gupta | Student | Information and Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shubhamguptakmr@gmail.com
 4 | Parth Dogra | Student | Electronics and Communication | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
 
 
