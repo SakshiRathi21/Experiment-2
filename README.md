@@ -9,7 +9,7 @@
 
 <h5> About the Lab (Objective) : </h5>
 
-Type here: berif description of the lab
+Students will be able to learn to create web pages and will learn the concepts and process of creating web applications.
 
 <h5> About the Experiment : </h5>
 
@@ -46,10 +46,10 @@ AKTU, Lucknow
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Nandini Jairath | Student | Computer Science and Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | nandinijairath@gmail.com
-2 | Shreya Asthana | Student | Dept Name | KIET Group of Institution, Delhi-NCR, Ghaziabad |abc@example.com
+2 | Shreya Asthana | Student | Information and Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shreyaasthana983@gmail.com
 3 | Shuvam Gupta | Student | Dept Name | KIET Group of Institution, Delhi-NCR, Ghaziabad |abc@example.com
-4 | Parth Dogra | Student | Dept Name | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
+4 | Parth Dogra | Student | Electronics and Communication | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
 
 
 <br>
-for more details on Rounds visit : <b> [HERE](http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/List-of-Rounds/blob/master/README.md) </b>
+
