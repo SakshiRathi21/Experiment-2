@@ -16,7 +16,7 @@
 <br>
 
 <br>Q3) Statements in JavaScript are terminated by which of the following symbol?
-<br>a).
+<br>a) .
 <br><b>b) ;</b>
 <br>c) :
 <br>d) _
