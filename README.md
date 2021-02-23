@@ -30,8 +30,8 @@ AKTU, Lucknow
 <b>Name of Developer | <b> Dr. Sakshi Rathi
 :--|:--|
 <b> Institute | <b> KIET Group of Institution, Delhi NCR, Ghaziabad
-<b> sakshi@kiet.edu|     <b> 
-<b> Department | Information and Technology
+<b> Email id |<b>sakshi@kiet.edu 
+<b> Department |<b> Information and Technology
 
 #### Mentor Details
 
