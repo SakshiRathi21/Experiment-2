@@ -1,33 +1,24 @@
-## <b> Pre-test
+##  Pre-test
 #### Please attempt the following questions
 
-<br>Q1) What are Fourier coefficients?
-<br>a) The terms that are present in a Fourier series
-<br>b) The terms that are obtained through Fourier series
-<br><b>c) The terms which consist of the Fourier series along with their sine or cosine values</b>
-<br>d) The terms which are of resemblance to Fourier transform in a Fourier series are called Fourier series coefficients
+<br>Q1) Which of the following shows 3,9,1,5,2 in correct increasing sorted order:
+<br><b>a) 1,2,3,5,9<b>
+<br>b) 2,3,5,9,1
+<br>c) 9,2,3,1,5
+<br>d) 3,2,5,1,9
 <br>
 
-<br>Q2) Which are the Fourier coefficients in the following?
-<br><b>a) a0, an and bn</b>
-<br>b) an
-<br>c) bn
-<br>d) an and bn
+<br>Q2) Sorting means:
+<br><b>a) Arranging elements in an order whether increasing or decreasing<b>
+<br>b) Swapping elements
+<br>c) Removing elements form the given list
+<br>d) Inserting new elements in the array
 <br>
 
-<br>Q3) Do exponential Fourier series also have Fourier coefficients to be evaluated.
-<br><b>a) True</b>
-<br>b) False
+<br>Q3) Statements in JavaScript are terminated by which of the following symbol?
+<br>a).
+<br><b>b) ;</b>
+<br>c) :
+<br>d) _
 <br>
 
-<br>Q4) The Fourier series coefficients of the signal are carried from –T/2 to T/2.
-<br><b>a) True</b>
-<br>b) False
-<br>
-
-<br>Q5) What is the polar form of the Fourier series? Select most suitable answer
-<br><b>a) x(t)= c0 + ∑cn cos⁡(nwt + ϕn)</b>
-<br>b) x(t)= c0 + ∑cn cos⁡(nwt + ϕn)
-<br>c) x(t) = ∑cn cos(nwt + ϕn)
-<br>d) x(t) = c0+ ∑cos(nwt + ϕn)
-<br>
