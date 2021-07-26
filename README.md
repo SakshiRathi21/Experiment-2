@@ -17,7 +17,7 @@ Sorting is a process in which elements of an array are arranged in a lexicograph
 
 <h5> Target Audience : </h5>
 
-Students of Information and Technology Dept. in Engineering
+Students of Information Technology Dept. in Engineering
 
 <h5> Course Alignment : </h5>
 
@@ -27,27 +27,20 @@ Web Designing Lab
 
 AKTU, Lucknow
 
-<b>Name of Developer | <b> Dr. Sakshi Rathi
+<b>Name of Developer | <b> Ms. Sakshi
 :--|:--|
 <b> Institute | <b> KIET Group of Institution, Delhi NCR, Ghaziabad
 <b> Email id |<b>sakshi@kiet.edu 
-<b> Department |<b> Information and Technology
+<b> Department |<b> Information Technology
 
-#### Mentor Details
-
-<b>Mentored by | <b> (of professor only (no prefix Prof/Mr/MRS) - - - - - -
-:--|:--|
-<b> Institute | <b> Institute name
-<b> Email id|     <b> abc@example.com
-<b> Department | Name of the department
 
 #### Contributors List
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
 1 | Nandini Jairath | Student | Computer Science and Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | nandinijairath@gmail.com
-2 | Shreya Asthana | Student | Information and Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shreyaasthana983@gmail.com
-3 | Shuvam Kumar Gupta | Student | Information and Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shubhamguptakmr@gmail.com
+2 | Shreya Asthana | Student | Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shreyaasthana983@gmail.com
+3 | Shuvam Kumar Gupta | Student | Information Technology | KIET Group of Institution, Delhi-NCR, Ghaziabad | shubhamguptakmr@gmail.com
 4 | Parth Dogra | Student | Electronics and Communication | KIET Group of Institution, Delhi-NCR, Ghaziabad | parthdogra1@gmail.com
 
 
