@@ -17,7 +17,7 @@ Sorting is a process in which elements of an array are arranged in a lexicograph
 
 <h5> Target Audience : </h5>
 
-Students of Information Technology Dept. in Engineering
+Students of IT, CSE, CSIT and CO Dept. in Engineering
 
 <h5> Course Alignment : </h5>
 
